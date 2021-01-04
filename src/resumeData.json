@@ -1,0 +1,122 @@
+{
+    "personalInfo": {
+        "imagebaseurl": "http://localhost:3000/",
+        "name": "Dhiraj Wani",
+        "role": "Full-stack Developer",
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "Canada",
+        "zip": "H3G 2G7",
+        "phone": "+18199197978",
+        "email": "dhirajwani70@gmail.com",
+        "shortInfo": "with an interest in building the most effective web applications possible and focused on putting my passions and skills to good use. I love traveling and in my spare time I search for travel deals, ride my bike. ",
+        "about": "I’m Dhiraj, I’m a web developer currently in Montreal, and I specialize in efficient web apps that just work across all platforms and browsers. \n\nI build backend services that are usable to handle logs, analyze data and results which could be efficiently accepted . \nMy professional life has been 100% driven by my passion for design, development and structure. My interest in web development grew during high school where I firstly learnt html, later studied deeply all related subjects during my undergrad, then in my university days developed an app which could provide help to users from various fields such as booking an doctor appointment or booking an appointment with plumber in their respective areas. For three years, I’ve worked for an e-commerce platform in Mumbai, where I got familiar with various technologies such as PHP, Python, Elasticsearch. After that, I pursued M.sc. in Computer Science, where I got introduced to ML, deep learning.\nRight now, I’m excited about my current role in Montreal, and working towards becoming a senior. In the following years, I also plan to explore the “server-side” more and become a better-rounded full-stack dev.",
+        "message": "",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "http://facebook.com/dhirajwani70",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/dhirajwani70",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://ca.linkedin.com/in/dhirajwani",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/coz_i_am_a_freak",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/dwani009",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "skype",
+                "url": "http://skype.com/dhiraj.wani6",
+                "className": "fa fa-skype"
+            }
+        ]
+    },
+    "backgroundInfo":{
+        "education": [
+            {
+                "university": "Bishop's University",
+                "degree": "Master of Science (M.Sc.) in Computer Science",
+                "graduated": "December 2019",
+                "description": ""
+            },
+            {
+                "university": "Pune University",
+                "degree": "Bachelor of Engineering (B.E.) in Computer Engineering",
+                "graduated": "June 2015",
+                "description": ""
+            }
+        ],
+        "work":[
+            {
+                "company":"4th Whale Marketing",
+                "title":"Backend Developer",
+                "years":"June 2020 - Present",
+                "description":"Compiling and analyzing data, processes, and codes to troubleshoot problems and identify areas for improvement. Collaborating with the other team members to establish objectives and design more functional, cohesive codes to enhance the user experience. Developing ideas for new programs, products, or features by monitoring industry developments and trends. Participating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members."
+            },
+            {
+                "company":"CGI",
+                "title":"Technical Consultant",
+                "years":"February 2019 - May 2020",
+                "description":"Being an IT consultant my role was to provide clients with technology that can help them operate more efficiently. Responsible for contributing to the successful completion of consulting engagements, supporting business lines as required and contribute to projects that involved technical methodologies, or other areas requiring understanding of complex systems. Most of the time worked in lining up backend services of the client's product which involved data analysis."
+            },
+            {
+                "company":"ControlCase LLC",
+                "title":"Software Engineer",
+                "years":"July 2015 - August 2018",
+                "description":"Worked in a cross-functional team that was responsible for the full software development life cycle, from conception to deployment of the in-house product. As a Full Stack Developer, I worked around both front-end and back-end coding languages, development frameworks and third-party libraries."
+            }
+        ],
+        "skills":[
+            {
+                "name":"PHP",
+                "level":"80%"
+            },
+            {
+                "name":"Python",
+                "level":"55%"
+            },
+            {
+                "name":"HTML",
+                "level":"90%"
+            },
+            {
+                "name":"CSS",
+                "level":"80%"
+            },
+            {
+                "name":"JavaScript",
+                "level":"65%"
+            },
+            {
+                "name":"ReactJs",
+                "level":"50%"
+            },
+            {
+                "name":"MySql",
+                "level":"80%"
+            },
+            {
+                "name":"Elasticsearch",
+                "level":"55%"
+            },
+            {
+                "name":"Git",
+                "level":"70%"
+            }
+        ]
+    }
+}
