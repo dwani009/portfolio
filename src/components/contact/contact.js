@@ -10,7 +10,6 @@ class Contact extends Component {
             var country = this.props.data.country;
             var zip = this.props.data.zip;
             var phone= this.props.data.phone;
-            var email = this.props.data.email;
             var message = this.props.data.contactmessage;
         }
 
